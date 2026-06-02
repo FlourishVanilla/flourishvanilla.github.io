@@ -3,7 +3,7 @@
 
 An enhanced, feature-rich way to play vanilla Minecraft—no mods necessary.
 
-[**🌐 Visit the Official Website**](https://flourishvanilla.github.io) | [**📦 View All Releases**](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/releases)
+[**🌐 Visit the Official Website**](https://flourishvanilla.github.io) | [**📦 View All Releases**](https://github.com/FlourishVanilla/flourishvanilla.github.io/releases)
 
 ---
 
