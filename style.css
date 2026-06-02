@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
 body {
-    /* Uses your uploaded image as the fixed, full-screen background */
+    /* Uses your custom image as the fixed, full-screen background */
     background-image: url('image_a7aee9.png');
     background-size: cover;
     background-position: center;
@@ -43,7 +43,7 @@ h1 {
 }
 
 section {
-    /* Made slightly transparent (rgba) so your background image peeks through nicely */
+    /* Made transparent (rgba) so your background image looks great underneath */
     background-color: rgba(44, 44, 44, 0.9);
     border: 4px solid #1e1e1e;
     box-shadow: inset -4px -4px 0px #111, inset 4px 4px 0px #4a4a4a;
