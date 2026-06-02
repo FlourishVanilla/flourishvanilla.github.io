@@ -4,3 +4,5 @@ By Datfox
 An enhanced way to play vanilla minecraft. No mods necessary.
 
 Download on the releases tab on github or on the [Website](https://flourishvanilla.github.io)
+
+![Minecraft Image](image_a7ee9.png)
