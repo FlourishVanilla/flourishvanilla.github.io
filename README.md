@@ -7,7 +7,21 @@ EVERY MOD HERE IS FROM MODRINTH. I CUSTOMIZED SOME STUFF, BUT STILL, ALL RIGHTS 
 [**🌐 Visit the Official Website**](https://flourishvanilla.github.io) | [**📦 View All Releases**](https://github.com/FlourishVanilla/flourishvanilla.github.io/releases)
 
 ---
+### 🌍 Credits & Included Packs
 
+* **Dungeons and Taverns** - [Modrinth Link](https://modrinth.com/datapack/dungeons-and-taverns)
+* **Dynamic Lights** - [Modrinth Link](https://modrinth.com/datapack/dynamic-lights)
+* **Explorify** - [Modrinth Link](https://modrinth.com/datapack/explorify)
+* **First-person Model** - [Modrinth Link](https://modrinth.com/mod/first-person-model)
+* **I Like Vanilla (Shaders)** - [Modrinth Link](https://modrinth.com/shaderpack/i-like-vanilla)
+* **Incendium** - [Modrinth Link](https://modrinth.com/datapack/incendium)
+* **Katters Structures** - [Modrinth Link](https://modrinth.com/datapack/katters-structures)
+* **Nullscape** - [Modrinth Link](https://modrinth.com/datapack/nullscape)
+* **Structory** - [Modrinth Link](https://modrinth.com/datapack/structory)
+* **Structory: Towers** - [Modrinth Link](https://modrinth.com/datapack/structory-towers)
+* **Tectonic** - [Modrinth Link](https://modrinth.com/datapack/tectonic)
+* **Trek** - [Modrinth Link](https://modrinth.com/datapack/trek)
+  
 ## ✨ Features
 
 * **Brand New Custom Mechanics** – Immersive features that expand gameplay options seamlessly.
