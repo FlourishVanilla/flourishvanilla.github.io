@@ -21,8 +21,8 @@ EVERY MOD HERE IS FROM MODRINTH. I CUSTOMIZED SOME STUFF, BUT STILL, ALL RIGHTS 
 * **Structory: Towers** - [Modrinth Link](https://modrinth.com/datapack/structory-towers)
 * **Tectonic** - [Modrinth Link](https://modrinth.com/datapack/tectonic)
 * **Trek** - [Modrinth Link](https://modrinth.com/datapack/trek)
-* **O's Colorful Grass** - [Modrinth Link](https://modrinth.com/resourcepack/os-colorful-grass)
-* **Recolorful Containers** - [Modrinth Link](https://modrinth.com/resourcepack/recolorful-containers)
+* **O's Colorful Grass** - [Modrinth Link](https://modrinth.com/resourcepack/os-colorful-grasses)
+* **Recolorful Containers** - [Modrinth Link](https://modrinth.com/resourcepack/recolourful-containers-gui)
   
 ## ✨ Features
 
