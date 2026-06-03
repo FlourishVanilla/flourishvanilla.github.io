@@ -9,20 +9,24 @@ EVERY MOD HERE IS FROM MODRINTH. I CUSTOMIZED SOME STUFF, BUT STILL, ALL RIGHTS 
 ---
 ### 🌍 Credits & Included Packs
 
+* **Animated Items** - [Modrinth Link](https://modrinth.com/resourcepack/animated-items)
 * **Dungeons and Taverns** - [Modrinth Link](https://modrinth.com/datapack/dungeons-and-taverns)
 * **Dynamic Lights** - [Modrinth Link](https://modrinth.com/datapack/dynamic-lights)
+* **End Remastered** - [Modrinth Link](https://modrinth.com/mod/endrem)
 * **Explorify** - [Modrinth Link](https://modrinth.com/datapack/explorify)
 * **First-person Model** - [Modrinth Link](https://modrinth.com/mod/first-person-model)
-* **I Like Vanilla (Shaders)** - [Modrinth Link](https://modrinth.com/shaderpack/i-like-vanilla)
+* **Hopo's Better Mineshafts** - [Modrinth Link](https://modrinth.com/datapack/hopo-better-mineshaft)
+* **Hopo's Better Ocean Ruins** - [Modrinth Link](https://modrinth.com/datapack/hopo-better-underwater-ruins)
+* **I Like Vanilla (Shaders)** - [Modrinth Link](https://modrinth.com/shader/i-like-vanilla)
 * **Incendium** - [Modrinth Link](https://modrinth.com/datapack/incendium)
 * **Katters Structures** - [Modrinth Link](https://modrinth.com/datapack/katters-structures)
 * **Nullscape** - [Modrinth Link](https://modrinth.com/datapack/nullscape)
+* **O's Colorful Grass** - [Modrinth Link](https://modrinth.com/resourcepack/os-colorful-grass)
+* **Recolorful Containers** - [Modrinth Link](https://modrinth.com/resourcepack/recolorful-containers)
 * **Structory** - [Modrinth Link](https://modrinth.com/datapack/structory)
 * **Structory: Towers** - [Modrinth Link](https://modrinth.com/datapack/structory-towers)
 * **Tectonic** - [Modrinth Link](https://modrinth.com/datapack/tectonic)
 * **Trek** - [Modrinth Link](https://modrinth.com/datapack/trek)
-* **O's Colorful Grass** - [Modrinth Link](https://modrinth.com/resourcepack/os-colorful-grasses)
-* **Recolorful Containers** - [Modrinth Link](https://modrinth.com/resourcepack/recolourful-containers-gui)
   
 ## ✨ Features
 
