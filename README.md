@@ -29,6 +29,9 @@ for friends and community
 * **Structory: Towers** - [Modrinth Link](https://modrinth.com/datapack/structory-towers)
 * **Tectonic** - [Modrinth Link](https://modrinth.com/datapack/tectonic)
 * **Trek** - [Modrinth Link](https://modrinth.com/datapack/trek)
+* **3D Default** - [Modrinth Link](https://modrinth.com/resourcepack/3d-default)
+* **Particle Rain** - [Modrinth Link](https://modrinth.com/mod/particle-rain)
+* **Not Enough Animations** - [Modrinth Link](https://modrinth.com/mod/not-enough-animations)
   
 ## ✨ Features
 
