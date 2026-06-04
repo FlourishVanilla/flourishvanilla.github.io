@@ -2,27 +2,36 @@
 > **By Datfox**
 
 An enhanced, feature-rich way to play vanilla Minecraft—no mods necessary.
-EVERY MOD HERE IS FROM MODRINTH. I CUSTOMIZED SOME STUFF, BUT STILL, ALL RIGHTS GO TO THEIR RESPECTIVE OWNERS! PLEASE CONTACT ME IF YOU'D LIKE ME TO REMOVE A FILE!
+EVERY MOD HERE IS FROM MODRINTH. I CUSTOMIZED SOME STUFF, BUT STILL, ALL RIGHTS GO TO THEIR RESPECTIVE OWNERS! PLEASE CONTACT ME IF YOU'D LIKE ME TO REMOVE A FILE! Discord contact link: https://discord.gg/fHj9yhm6FV 
+
+for friends and community  
 
 [**🌐 Visit the Official Website**](https://flourishvanilla.github.io) | [**📦 View All Releases**](https://github.com/FlourishVanilla/flourishvanilla.github.io/releases)
 
 ---
 ### 🌍 Credits & Included Packs
 
+* **Animated Items** - [Modrinth Link](https://modrinth.com/resourcepack/animated-items)
 * **Dungeons and Taverns** - [Modrinth Link](https://modrinth.com/datapack/dungeons-and-taverns)
 * **Dynamic Lights** - [Modrinth Link](https://modrinth.com/datapack/dynamic-lights)
+* **End Remastered** - [Modrinth Link](https://modrinth.com/mod/endrem)
 * **Explorify** - [Modrinth Link](https://modrinth.com/datapack/explorify)
 * **First-person Model** - [Modrinth Link](https://modrinth.com/mod/first-person-model)
-* **I Like Vanilla (Shaders)** - [Modrinth Link](https://modrinth.com/shaderpack/i-like-vanilla)
+* **Hopo's Better Mineshafts** - [Modrinth Link](https://modrinth.com/datapack/hopo-better-mineshaft)
+* **Hopo's Better Ocean Ruins** - [Modrinth Link](https://modrinth.com/datapack/hopo-better-underwater-ruins)
+* **I Like Vanilla (Shaders)** - [Modrinth Link](https://modrinth.com/shader/i-like-vanilla)
 * **Incendium** - [Modrinth Link](https://modrinth.com/datapack/incendium)
 * **Katters Structures** - [Modrinth Link](https://modrinth.com/datapack/katters-structures)
 * **Nullscape** - [Modrinth Link](https://modrinth.com/datapack/nullscape)
+* **O's Colorful Grass** - [Modrinth Link](https://modrinth.com/resourcepack/os-colorful-grass)
+* **Recolorful Containers** - [Modrinth Link](https://modrinth.com/resourcepack/recolorful-containers)
 * **Structory** - [Modrinth Link](https://modrinth.com/datapack/structory)
 * **Structory: Towers** - [Modrinth Link](https://modrinth.com/datapack/structory-towers)
 * **Tectonic** - [Modrinth Link](https://modrinth.com/datapack/tectonic)
 * **Trek** - [Modrinth Link](https://modrinth.com/datapack/trek)
-* **O's Colorful Grass** - [Modrinth Link](https://modrinth.com/resourcepack/os-colorful-grasses)
-* **Recolorful Containers** - [Modrinth Link](https://modrinth.com/resourcepack/recolourful-containers-gui)
+* **3D Default** - [Modrinth Link](https://modrinth.com/resourcepack/3d-default)
+* **Particle Rain** - [Modrinth Link](https://modrinth.com/mod/particle-rain)
+* **Not Enough Animations** - [Modrinth Link](https://modrinth.com/mod/not-enough-animations)
   
 ## ✨ Features
 
