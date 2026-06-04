@@ -2,7 +2,7 @@
 > **By Datfox**
 
 An enhanced, feature-rich way to play vanilla Minecraft—no mods necessary.
-EVERY MOD HERE IS FROM MODRINTH. I CUSTOMIZED SOME STUFF, BUT STILL, ALL RIGHTS GO TO THEIR RESPECTIVE OWNERS! PLEASE CONTACT ME IF YOU'D LIKE ME TO REMOVE A FILE!
+EVERY MOD HERE IS FROM MODRINTH. I CUSTOMIZED SOME STUFF, BUT STILL, ALL RIGHTS GO TO THEIR RESPECTIVE OWNERS! PLEASE CONTACT ME IF YOU'D LIKE ME TO REMOVE A FILE! Discord contact link: https://discord.gg/fHj9yhm6FV
 
 [**🌐 Visit the Official Website**](https://flourishvanilla.github.io) | [**📦 View All Releases**](https://github.com/FlourishVanilla/flourishvanilla.github.io/releases)
 
